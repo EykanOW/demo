@@ -4,8 +4,16 @@ Balle
 
 Hello World!!!!!!!1!
 
+<<<<<<< HEAD
            
 	   Eykan
 
 
 	   balls
+=======
+            Eykan
+
+
+Balls
+
+>>>>>>> a63e673b286636c473b8e39e215aa094fe31e527
